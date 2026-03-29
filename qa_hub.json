@@ -1,0 +1,210 @@
+[
+    {
+        "name":"Renewal Date Calculator",
+        "approved":"yes",
+        "status":"active",
+        "lob_data":{
+            "BVP":[
+                {
+                    "STATE":"AZ",
+                    "RENEWAL LEAD DAYS":"35",
+                    "NON-RENEWAL LEAD DAYS":"47",
+                    "PRE-RENEWAL REFERRAL TIMING":"60",
+                    "MVR \/ EARS ORDER FREQUENCY":"Every Renewal - Through EARS",
+                    "CREDIT REORDER":"Automatic - No Manual - Yes",
+                    "PERMITTED MANUAL RENEWAL WINDOW":"60",
+                    "COMMENTS":"The Difference between Pre Renewal Lead days and Non Renewal Lead days is reduced to 13 for BVP .( Whereas all the PPA states have 15 days )"
+                },
+                {
+                    "STATE":"OR",
+                    "RENEWAL LEAD DAYS":"23",
+                    "NON-RENEWAL LEAD DAYS":"32",
+                    "PRE-RENEWAL REFERRAL TIMING":"45",
+                    "MVR \/ EARS ORDER FREQUENCY":"Every Renewal - Through EARS",
+                    "CREDIT REORDER":"Automatic - No Manual - Yes",
+                    "PERMITTED MANUAL RENEWAL WINDOW":"45",
+                    "COMMENTS":"The Difference between Pre Renewal Lead days and Non Renewal Lead days is reduced to 13 for BVP.( Whereas all the PPA states have 15 days )"
+                },
+                {
+                    "STATE":"FL",
+                    "RENEWAL LEAD DAYS":"35",
+                    "NON-RENEWAL LEAD DAYS":"48",
+                    "PRE-RENEWAL REFERRAL TIMING":"61",
+                    "MVR \/ EARS ORDER FREQUENCY":"Every Renewal - Through EARS",
+                    "CREDIT REORDER":"Automatic - Yes Manual - Yes",
+                    "PERMITTED MANUAL RENEWAL WINDOW":"61",
+                    "COMMENTS":"The Difference between Pre Renewal Lead days and Non Renewal Lead days is reduced to 13 for BVP.( Whereas all the PPA states have 15 days )"
+                },
+                {
+                    "STATE":"TX",
+                    "RENEWAL LEAD DAYS":"35",
+                    "NON-RENEWAL LEAD DAYS":"63",
+                    "PRE-RENEWAL REFERRAL TIMING":"76",
+                    "MVR \/ EARS ORDER FREQUENCY":"Every Renewal - Through EARS",
+                    "CREDIT REORDER":"Automatic - Yes Manual - Yes",
+                    "PERMITTED MANUAL RENEWAL WINDOW":"76",
+                    "COMMENTS":"The Difference between Pre Renewal Lead days and Non Renewal Lead days is reduced to 13 for BVP.( Whereas all the PPA states have 15 days )"
+                }
+            ],
+            "CV":[
+                {
+                    "STATE":"AZ",
+                    "RENEWAL LEAD DAYS":"33",
+                    "NON-RENEWAL LEAD DAYS":"63",
+                    "PRE-RENEWAL REFERRAL TIMING":"70",
+                    "MVR \/ EARS ORDER FREQUENCY":"Every 2 Years based on Driver addition",
+                    "CREDIT REORDER":"Do Not Order during Renewal"
+                },
+                {
+                    "STATE":"CA",
+                    "RENEWAL LEAD DAYS":"33",
+                    "NON-RENEWAL LEAD DAYS":"63",
+                    "PRE-RENEWAL REFERRAL TIMING":"70",
+                    "MVR \/ EARS ORDER FREQUENCY":"Every Term",
+                    "CREDIT REORDER":"Every Term"
+                },
+                {
+                    "STATE":"CO",
+                    "RENEWAL LEAD DAYS":"33",
+                    "NON-RENEWAL LEAD DAYS":"45",
+                    "PRE-RENEWAL REFERRAL TIMING":"52",
+                    "MVR \/ EARS ORDER FREQUENCY":"Every 2 Years based on Driver addition",
+                    "CREDIT REORDER":"Do Not Order during Renewal"
+                },
+                {
+                    "STATE":"CT",
+                    "RENEWAL LEAD DAYS":"33",
+                    "NON-RENEWAL LEAD DAYS":"63",
+                    "PRE-RENEWAL REFERRAL TIMING":"70",
+                    "MVR \/ EARS ORDER FREQUENCY":"Every 2 Years based on Driver addition",
+                    "CREDIT REORDER":"Do Not Order during Renewal"
+                },
+                {
+                    "STATE":"FL",
+                    "RENEWAL LEAD DAYS":"48",
+                    "NON-RENEWAL LEAD DAYS":"48",
+                    "PRE-RENEWAL REFERRAL TIMING":"55",
+                    "MVR \/ EARS ORDER FREQUENCY":"Every 2 Years based on Driver addition",
+                    "CREDIT REORDER":"Do Not Order during Renewal"
+                },
+                {
+                    "STATE":"GA",
+                    "RENEWAL LEAD DAYS":"48",
+                    "NON-RENEWAL LEAD DAYS":"48",
+                    "PRE-RENEWAL REFERRAL TIMING":"55",
+                    "MVR \/ EARS ORDER FREQUENCY":"Every 2 Years based on Driver addition",
+                    "CREDIT REORDER":"Do Not Order during Renewal"
+                },
+                {
+                    "STATE":"PA",
+                    "RENEWAL LEAD DAYS":"35",
+                    "NON-RENEWAL LEAD DAYS":"63",
+                    "PRE-RENEWAL REFERRAL TIMING":"70",
+                    "MVR \/ EARS ORDER FREQUENCY":"Every 2 Years based on Driver addition",
+                    "CREDIT REORDER":"Do Not Order during Renewal"
+                },
+                {
+                    "STATE":"TX",
+                    "RENEWAL LEAD DAYS":"33",
+                    "NON-RENEWAL LEAD DAYS":"63",
+                    "PRE-RENEWAL REFERRAL TIMING":"70",
+                    "MVR \/ EARS ORDER FREQUENCY":"Every 2 Years based on Driver addition",
+                    "CREDIT REORDER":"Do Not Order during Renewal"
+                }
+            ],
+            "PPA":[
+                {
+                    "STATE":"AZ",
+                    "RENEWAL LEAD DAYS":"35",
+                    "NON-RENEWAL LEAD DAYS":"45",
+                    "MAIL LEAD TIME":"",
+                    "PRE-RENEWAL REFERRAL TIMING":"60"
+                },
+                {
+                    "STATE":"CA",
+                    "RENEWAL LEAD DAYS":"25",
+                    "NON-RENEWAL LEAD DAYS":"30",
+                    "MAIL LEAD TIME":"",
+                    "PRE-RENEWAL REFERRAL TIMING":"45"
+                },
+                {
+                    "STATE":"FL",
+                    "RENEWAL LEAD DAYS":"33",
+                    "NON-RENEWAL LEAD DAYS":"45",
+                    "MAIL LEAD TIME":"",
+                    "PRE-RENEWAL REFERRAL TIMING":"60"
+                },
+                {
+                    "STATE":"GA",
+                    "RENEWAL LEAD DAYS":"23",
+                    "NON-RENEWAL LEAD DAYS":"30",
+                    "MAIL LEAD TIME":"",
+                    "PRE-RENEWAL REFERRAL TIMING":"45"
+                },
+                {
+                    "STATE":"NC",
+                    "RENEWAL LEAD DAYS":"48",
+                    "NON-RENEWAL LEAD DAYS":"60",
+                    "MAIL LEAD TIME":"",
+                    "PRE-RENEWAL REFERRAL TIMING":"75"
+                },
+                {
+                    "STATE":"OH",
+                    "RENEWAL LEAD DAYS":"33",
+                    "NON-RENEWAL LEAD DAYS":"30",
+                    "MAIL LEAD TIME":"",
+                    "PRE-RENEWAL REFERRAL TIMING":"45"
+                },
+                {
+                    "STATE":"PA",
+                    "RENEWAL LEAD DAYS":"33",
+                    "NON-RENEWAL LEAD DAYS":"60 (Annual Anniversary only)",
+                    "MAIL LEAD TIME":"",
+                    "PRE-RENEWAL REFERRAL TIMING":"75"
+                },
+                {
+                    "STATE":"SC",
+                    "RENEWAL LEAD DAYS":"33",
+                    "NON-RENEWAL LEAD DAYS":"30",
+                    "MAIL LEAD TIME":"",
+                    "PRE-RENEWAL REFERRAL TIMING":"45"
+                },
+                {
+                    "STATE":"TN",
+                    "RENEWAL LEAD DAYS":"33",
+                    "NON-RENEWAL LEAD DAYS":"30",
+                    "MAIL LEAD TIME":"",
+                    "PRE-RENEWAL REFERRAL TIMING":"45"
+                },
+                {
+                    "STATE":"TX",
+                    "RENEWAL LEAD DAYS":"25",
+                    "NON-RENEWAL LEAD DAYS":"30",
+                    "MAIL LEAD TIME":"",
+                    "PRE-RENEWAL REFERRAL TIMING":"45"
+                },
+                {
+                    "STATE":"VA",
+                    "RENEWAL LEAD DAYS":"33",
+                    "NON-RENEWAL LEAD DAYS":"45",
+                    "MAIL LEAD TIME":"",
+                    "PRE-RENEWAL REFERRAL TIMING":"60"
+                }
+            ]
+        },
+        "created_by":null,
+        "created_at":null,
+        "data":null
+    },
+    {
+        "name":"Delinquency Calculator",
+        "approved":"no",
+        "status":"active",
+        "lob_data":null,
+        "created_by":"admin",
+        "created_at":"2026-03-23 21:12:28",
+        "data":[
+
+        ]
+    }
+]

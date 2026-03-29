@@ -1,0 +1,9 @@
+[
+  {
+    "username": "users",
+    "login": "yes",
+    "resources": "yes",
+    "help": "yes",
+    "qa_hub": "yes"
+  }
+]
